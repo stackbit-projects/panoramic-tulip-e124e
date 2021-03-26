@@ -23,7 +23,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: lorem-ipsum test
     content: >
       ## Lorem ipsum
 
