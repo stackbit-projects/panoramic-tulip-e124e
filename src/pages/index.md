@@ -24,7 +24,7 @@ sections:
     background_image_opacity: 8
   - title: lorem-ipsum
     subtitle: lorem-ipsum
-    content: >-
+    content: >
       ## Lorem ipsum
 
 
@@ -32,9 +32,11 @@ sections:
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      *   Lorem ipsum
 
-      - dolor sit amet
+      *   dolor sit amet
+
+      *   test
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
