@@ -37,6 +37,8 @@ sections:
       *   dolor sit amet
 
       *   test
+
+      *   test2
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
