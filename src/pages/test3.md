@@ -1,7 +1,7 @@
 ---
 title: lorem-ipsum
 seo:
-  title: ''
+  title: test
   description: ''
   robots: []
   extra: []
