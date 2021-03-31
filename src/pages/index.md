@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: 'Hi, I’m Alyvia test test. Hi, I help my clients succeed online.test test2'
     subtitle: >-
-      I will handle your website design and production, social media accounts
+      test I will handle your website design and production, social media accounts
       and digital advertisements for you, at an affordable price test test.
     actions:
       - label: Contact Me
